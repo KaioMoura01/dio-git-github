@@ -1,0 +1,10 @@
+Comandos importantes:
+
+git push origin master
+git add *
+git commit -m "Text"
+git status
+cd
+mkdir
+rm
+mv
